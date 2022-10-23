@@ -1,0 +1,9 @@
+C:\Users\katie\source\repos\DekanatPro\Business_Logic\bin\Debug\Business_Logic.dll
+C:\Users\katie\source\repos\DekanatPro\Business_Logic\bin\Debug\Business_Logic.pdb
+C:\Users\katie\source\repos\DekanatPro\Business_Logic\bin\Debug\Model.dll
+C:\Users\katie\source\repos\DekanatPro\Business_Logic\bin\Debug\Model.pdb
+C:\Users\katie\source\repos\DekanatPro\Business_Logic\obj\Debug\Business_Logic.csproj.AssemblyReference.cache
+C:\Users\katie\source\repos\DekanatPro\Business_Logic\obj\Debug\Business_Logic.csproj.CoreCompileInputs.cache
+C:\Users\katie\source\repos\DekanatPro\Business_Logic\obj\Debug\Business_Logic.csproj.CopyComplete
+C:\Users\katie\source\repos\DekanatPro\Business_Logic\obj\Debug\Business_Logic.dll
+C:\Users\katie\source\repos\DekanatPro\Business_Logic\obj\Debug\Business_Logic.pdb

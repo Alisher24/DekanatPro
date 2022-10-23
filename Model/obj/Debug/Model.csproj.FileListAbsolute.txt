@@ -1,0 +1,6 @@
+C:\Users\katie\source\repos\DekanatPro\Model\bin\Debug\Model.dll
+C:\Users\katie\source\repos\DekanatPro\Model\bin\Debug\Model.pdb
+C:\Users\katie\source\repos\DekanatPro\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\katie\source\repos\DekanatPro\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\katie\source\repos\DekanatPro\Model\obj\Debug\Model.dll
+C:\Users\katie\source\repos\DekanatPro\Model\obj\Debug\Model.pdb
